@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,scallop.io
 DOMAIN-SUFFIX,io
 DOMAIN-SUFFIX,x.com
+
+# coin
+DOMAIN-SUFFIX,bluefin.io
