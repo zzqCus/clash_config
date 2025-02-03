@@ -1,3 +1,4 @@
 # 内容：zzq 币圈限制访问地区的配置
 
 DOMAIN-SUFFIX,bluefin.io
+DOMAIN-SUFFIX,synfutures.com
